@@ -1,0 +1,7 @@
+pandas>=2.0.0               # Data manipulation and analysis
+numpy>=1.24.0      
+gradio>=6.0.1              # Gradio UI framework
+ollama>=0.1.0    
+python-dotenv>=1.0.0        # Environment variable management
+tqdm>=4.65.0                # Progress bars for long operations
+requests

@@ -1,0 +1,200 @@
+{"prompt": "What type of loudspeaker is the DesignMax DM8SE?", "completion": "The DesignMax DM8SE is a surface-mount loudspeaker."}
+{"prompt": "What kind of drivers does the DM8SE use?", "completion": "It uses coaxial two-way drivers."}
+{"prompt": "Is the DM8SE suitable for outdoor use?", "completion": "Yes, the DM8SE is upgraded for outdoor use and features an IP55 rating."}
+{"prompt": "What specific outdoor protection features does the DM8SE have?", "completion": "It includes a rust-resistant aluminum grille, a weather-sealed cover for the rear input wiring terminal, and a weather-resistant mounting bracket."}
+{"prompt": "What is the frequency range (-10 dB) of the DM8SE?", "completion": "The frequency range (-10 dB) is 52 Hz to 20,000 Hz."}
+{"prompt": "What is the woofer size of the DM8SE?", "completion": "The DM8SE features a 2-way, 8-inch woofer."}
+{"prompt": "What is the size of the compression driver in the DM8SE?", "completion": "It has a center-firing coaxial 1-inch compression driver."}
+{"prompt": "What mounting system does the DM8SE utilize?", "completion": "It uses the QuickHold mounting system, which locks onto an included U-bracket."}
+{"prompt": "Does the DM8SE require DSP or EQ?", "completion": "No, it delivers rich lows and clear highs without requiring DSP or EQ."}
+{"prompt": "What optional accessories are available for mounting?", "completion": "An optional pan-and-tilt bracket and pole mount bracket are available separately."}
+{"prompt": "How many DesignMax models are available to mix and match?", "completion": "There are 15 loudspeakers available to mix and match."}
+{"prompt": "What can be used to enable SmartBass processing?", "completion": "Select Bose Professional DSPs and amplifiers can be used to enable SmartBass processing."}
+{"prompt": "What colors are the minimum-bezel grilles available in?", "completion": "The grilles are available in black or white."}
+{"prompt": "Are the logos on the DM8SE removable?", "completion": "Yes, the logos are removable."}
+{"prompt": "What type of connectors do all DesignMax models include?", "completion": "All models include Euroblock connectors."}
+{"prompt": "What is the frequency response (+/-3 dB) of the DM8SE?", "completion": "The frequency response (-3 dB) is 60-20,000 Hz."}
+{"prompt": "What is the nominal coverage angle at 1-4 kHz?", "completion": "The nominal coverage angle is 130 degrees conical."}
+{"prompt": "What is the nominal coverage angle at 1-10 kHz?", "completion": "The nominal coverage angle is 115 degrees conical."}
+{"prompt": "What is the long-term continuous power handling of the DM8SE?", "completion": "The long-term continuous power handling is 150 W."}
+{"prompt": "What is the peak power handling of the DM8SE?", "completion": "The peak power handling is 600 W."}
+{"prompt": "What is the sensitivity (SPL/1W@1m) of the DM8SE?", "completion": "The sensitivity is 93 dB."}
+{"prompt": "What is the calculated maximum SPL at 1 meter (continuous)?", "completion": "The calculated maximum SPL at 1 meter (continuous) is 115 dB."}
+{"prompt": "What is the calculated maximum SPL at 1 meter (peak)?", "completion": "The calculated maximum SPL at 1 meter (peak) is 121 dB."}
+{"prompt": "What is the crossover frequency of the DM8SE?", "completion": "The crossover frequency is 1.5 kHz (passive 2-way crossover)."}
+{"prompt": "What is the recommended high-pass protection?", "completion": "The recommended high-pass protection is 48 Hz with a recommended 24-dB/octave filter."}
+{"prompt": "How does the overload protection work?", "completion": "It uses resistor-network power reduction with automatic reset."}
+{"prompt": "What are the transformer taps for 70V?", "completion": "The 70V taps are 2.5 W, 5 W, 10 W, 20 W, 40 W, 80 W, and bypass."}
+{"prompt": "What are the transformer taps for 100V?", "completion": "The 100V taps are 5 W, 10 W, 20 W, 40 W, 80 W, and bypass."}
+{"prompt": "What is the nominal impedance of the DM8SE?", "completion": "The nominal impedance is 8 Ohms (transformer bypass)."}
+{"prompt": "What material is the enclosure made of?", "completion": "The enclosure is made of engineered plastics that are highly UV-fade-resistant."}
+{"prompt": "What material is the bracket made of?", "completion": "The bracket is made of powder-coated steel."}
+{"prompt": "Describe the grille of the DM8SE.", "completion": "The grille is perforated aluminum with a powder-coated finish, tamper-resistant design, and is paintable."}
+{"prompt": "What is the operating temperature range for the DM8SE?", "completion": "The operating temperature range is -25°C to 70°C (-13°F to 158°F)."}
+{"prompt": "What safety certifications does the DM8SE have?", "completion": "It is UL-listed, UL 1480A, NFPA 70-compliant, and CE-compliant."}
+{"prompt": "What size wire does the Euroblock connector accept?", "completion": "The connector accepts 18 AWG to 14 AWG (0.8 mm² to 2.5 mm²) wire."}
+{"prompt": "What are the preset mounting angles available on the U-bracket?", "completion": "The preset mounting angles are 0°, 15°, 30°, and 45° for wall or ceiling placement."}
+{"prompt": "What are the dimensions of the loudspeaker without the bracket?", "completion": "The loudspeaker dimensions are 395 mm x 249 mm x 255 mm (15.6 in x 9.8 in x 10.0 in)."}
+{"prompt": "What are the dimensions of the loudspeaker with the bracket?", "completion": "The dimensions with the bracket are 395 mm x 249 mm x 272 mm (15.6 in x 9.8 in x 10.7 in)."}
+{"prompt": "What is the net weight of a single DM8SE loudspeaker?", "completion": "The net weight is 10.3 kg (22.8 lb)."}
+{"prompt": "What is the shipping weight of a single DM8SE loudspeaker?", "completion": "The shipping weight is 13.2 kg (29.0 lb)."}
+{"prompt": "What is included in the package contents?", "completion": "The package includes (1) DesignMax DM8SE, (1) weather-resistant input cover, (1) U-bracket, and (1) installation guide."}
+{"prompt": "What is the product code for the Black DM8SE?", "completion": "The product code for Black is 892116-0100."}
+{"prompt": "What is the product code for the White DM8SE?", "completion": "The product code for White is 892116-0200."}
+{"prompt": "How is the frequency response measured?", "completion": "Frequency response and range are measured on-axis in a half-space environment with Bose Professional EQ voicing."}
+{"prompt": "How is the sensitivity measured?", "completion": "Sensitivity is measured on-axis in a half-space environment averaged 100 Hz-10 kHz using recommended high-pass protection."}
+{"prompt": "What standard is used for the AES transducer test?", "completion": "The AES standard is a 2-hour duration with IEC system noise."}
+{"prompt": "What is the duration of the Bose Professional extended-lifecycle test?", "completion": "The duration is 500 hours."}
+{"prompt": "What type of noise is used in the Bose Professional extended-lifecycle test?", "completion": "Pink noise filtered to meet IEC 268-5 with a 6-dB crest factor is used."}
+{"prompt": "What is the IP rating definition for the DM8SE?", "completion": "It is rated IP55, suitable for use outdoors in wet locations."}
+{"prompt": "Does the DM8SE come with a weather-sealed input cover?", "completion": "Yes, it includes a weather-sealed cover for the rear input wiring terminal."}
+{"prompt": "Is the DM8SE grille paintable?", "completion": "Yes, the grille is paintable."}
+{"prompt": "What is the low-frequency transducer diameter in millimeters?", "completion": "The low-frequency transducer is 203 mm (8 inches)."}
+{"prompt": "What is the high-frequency transducer diameter in millimeters?", "completion": "The high-frequency transducer is 25 mm (1 inch)."}
+{"prompt": "How many screw inserts are on the U-bracket for mounting?", "completion": "There are (2) M8 screw inserts on the U-bracket."}
+{"prompt": "Is there a safety cable attachment point?", "completion": "Yes, there is (1) M8 screw insert for safety cable attachment."}
+{"prompt": "What RAL color corresponds to the black model?", "completion": "RAL 9005 corresponds to the black model."}
+{"prompt": "What RAL color corresponds to the white model?", "completion": "RAL 9003 corresponds to the white model."}
+{"prompt": "What is the maximum SPL (continuous) derived from?", "completion": "It is calculated from sensitivity and power handling specifications, exclusive of power compression."}
+{"prompt": "Does the QuickHold system reduce installation time?", "completion": "Yes, the QuickHold mounting system reduces installation time, strain, hassle, and the chance of product damage."}
+{"prompt": "What connector type is mounted on the rear panel?", "completion": "A 6-pin Euroblock connector with loop-through is mounted on the rear panel."}
+{"prompt": "Does the DM8SE support 70V and 100V systems?", "completion": "Yes, it has transformer taps for both 70V and 100V systems."}
+{"prompt": "What is the lowest wattage tap for 70V?", "completion": "The lowest wattage tap for 70V is 2.5 W."}
+{"prompt": "What is the highest wattage tap for 100V (excluding bypass)?", "completion": "The highest wattage tap for 100V is 80 W."}
+{"prompt": "Can the transformer be bypassed?", "completion": "Yes, there is a bypass setting for both 70V and 100V operation."}
+{"prompt": "What is the vertical beamwidth behavior above 1000 Hz?", "completion": "The beamwidth graph shows the vertical angle varies, dipping below 100 degrees around 10 kHz."}
+{"prompt": "Is the logo on the DM8SE rotatable?", "completion": "Yes, the logo is rotatable and removable."}
+{"prompt": "What is the primary material of the grille?", "completion": "The grille is made of aluminum."}
+{"prompt": "Does the DM8SE have a tile bridge included?", "completion": "No, tile bridges are mentioned for in-ceiling models, not the surface-mount DM8SE."}
+{"prompt": "What is the crest factor for the Bose Professional extended-lifecycle test?", "completion": "The crest factor is 6-dB."}
+{"prompt": "What is the height of the loudspeaker in inches?", "completion": "The height is 15.6 inches."}
+{"prompt": "What is the width of the loudspeaker in inches?", "completion": "The width is 9.8 inches."}
+{"prompt": "What is the depth of the loudspeaker in inches without the bracket?", "completion": "The depth is 10.0 inches."}
+{"prompt": "What is the total depth of the loudspeaker including the bracket?", "completion": "The total depth is 10.7 inches."}
+{"prompt": "What is the dimension of the M8 threaded inserts spacing on the bracket?", "completion": "The spacing is 100-105 mm."}
+{"prompt": "What is the length of the bracket's mounting slots?", "completion": "The mounting slots accommodate a spacing of 100-105 mm."}
+{"prompt": "How many QuickHold lock levers are there?", "completion": "There are 2 QuickHold lock levers."}
+{"prompt": "How many grille attachment clips are there?", "completion": "There are 4 grille attachment clips."}
+{"prompt": "Where is the tap setting switch located?", "completion": "The tap setting switch is located on the front baffle, accessible when the grille is removed."}
+{"prompt": "What is the diameter of the cable entry hole on the bracket?", "completion": "The diameter is 22 mm."}
+{"prompt": "What is the center-to-center distance of the bracket mounting holes?", "completion": "The distance is 100-105 mm."}
+{"prompt": "What is the width of the bracket backplate?", "completion": "The width of the bracket backplate is 62 mm."}
+{"prompt": "What is the height of the bracket itself?", "completion": "The height of the bracket is 314 mm."}
+{"prompt": "What is the distance from the wall to the pivot point of the bracket?", "completion": "The distance is 73 mm."}
+{"prompt": "What is the clearance from the side of the bracket to the speaker body?", "completion": "The clearance is 17 mm."}
+{"prompt": "What is the frequency response graph's y-axis labeled as?", "completion": "The y-axis is labeled as SPL (dB)."}
+{"prompt": "In the impedance graph, where does the first major peak occur?", "completion": "The first major peak occurs between 20 Hz and 100 Hz."}
+{"prompt": "What does the solid line in the frequency response graph represent?", "completion": "The solid line represents Bose Professional EQ voicing."}
+{"prompt": "What does the dashed line in the frequency response graph represent?", "completion": "The dashed line represents Raw (high-pass filter only)."}
+{"prompt": "What environment is used for the AES transducer test?", "completion": "The context implies standard AES testing conditions, though the specific environment (half/whole space) isn't explicitly detailed for the *test method* itself, but performance specs are half-space."}
+{"prompt": "What is the warranty or lifecycle implied by the test duration?", "completion": "The product undergoes a 500-hour extended-lifecycle test, implying high durability."}
+{"prompt": "Can the DM8SE be used for foreground music?", "completion": "Yes, it is ideal for foreground music applications."}
+{"prompt": "What feature makes the DM8SE ideal for live sound?", "completion": "Its ability to deliver powerful SPL makes it ideal for live sound."}
+{"prompt": "Is the input cover weather-resistant?", "completion": "Yes, the package includes a weather-resistant input cover."}
+{"prompt": "What is the AES power handling in watts?", "completion": "The long-term continuous power handling is 150 W, based on the AES transducer test."}
+{"prompt": "What specific IEC standard is the outdoor rating based on?", "completion": "The outdoor rating is based on IEC 529."}
+{"prompt": "How many wire inputs does the Euroblock connector have?", "completion": "The connector is a 6-pin Euroblock."}
+{"prompt": "Does the Euroblock connector support loop-through?", "completion": "Yes, the Euroblock connector features loop-through."}
+{"prompt": "What is the sensitivity drop if using the raw setting vs EQ?", "completion": "The graphs show the raw response is generally similar, but the sensitivity specification is based on the recommended high-pass protection."}
+{"prompt": "Is the DM8SE a coaxial loudspeaker?", "completion": "Yes, the DM8SE uses coaxial two-way drivers."}
+{"prompt": "What is the maximum wire gauge for the connector?", "completion": "The maximum wire gauge is 14 AWG (2.5 mm²)."}
+{"prompt": "What is the minimum wire gauge for the connector?", "completion": "The minimum wire gauge is 18 AWG (0.8 mm²)."}
+{"prompt": "What is the specific width of the DesignMax DM8SE loudspeaker in millimeters?", "completion": "The width is 249 mm."}
+{"prompt": "What is the specific height of the DesignMax DM8SE loudspeaker in millimeters?", "completion": "The height is 395 mm."}
+{"prompt": "What is the depth of the DesignMax DM8SE loudspeaker without the bracket in millimeters?", "completion": "The depth is 255 mm."}
+{"prompt": "What is the depth of the DesignMax DM8SE loudspeaker including the bracket in millimeters?", "completion": "The depth including the bracket is 272 mm."}
+{"prompt": "What is the weight of a single DM8SE loudspeaker in kilograms?", "completion": "The net weight is 10.3 kg."}
+{"prompt": "What is the weight of a single DM8SE loudspeaker in pounds?", "completion": "The net weight is 22.8 lb."}
+{"prompt": "What is the shipping weight of the DM8SE in kilograms?", "completion": "The shipping weight is 13.2 kg."}
+{"prompt": "What is the shipping weight of the DM8SE in pounds?", "completion": "The shipping weight is 29.0 lb."}
+{"prompt": "What is the product code for the DesignMax DM8SE in Black?", "completion": "The product code is 892116-0100."}
+{"prompt": "What is the product code for the DesignMax DM8SE in White?", "completion": "The product code is 892116-0200."}
+{"prompt": "Does the 70V transformer setting include a 2.5 W tap?", "completion": "Yes, the 70V setting includes a 2.5 W tap."}
+{"prompt": "Does the 100V transformer setting include a 2.5 W tap?", "completion": "No, the 100V setting starts at 5 W."}
+{"prompt": "What is the highest wattage tap available for 70V use?", "completion": "The highest wattage tap for 70V is 80 W."}
+{"prompt": "What is the highest wattage tap available for 100V use?", "completion": "The highest wattage tap for 100V is 80 W."}
+{"prompt": "What material is used for the DM8SE woofer?", "completion": "The woofer is weather-treated."}
+{"prompt": "What is the size of the voice coil or driver for the high frequency?", "completion": "It is a 1-inch (25 mm) compression driver."}
+{"prompt": "Is the enclosure UV resistant?", "completion": "Yes, the enclosure is made of engineered plastics that are highly UV-fade-resistant."}
+{"prompt": "What is the RAL color code for the black version?", "completion": "The RAL color code is RAL 9005."}
+{"prompt": "What is the RAL color code for the white version?", "completion": "The RAL color code is RAL 9003."}
+{"prompt": "Is the DM8SE compliant with NFPA 70?", "completion": "Yes, it is NFPA 70-compliant."}
+{"prompt": "Is the DM8SE UL listed?", "completion": "Yes, it is UL-listed, specifically UL 1480A."}
+{"prompt": "What is the crest factor used in the Bose Professional Extended-Lifecycle Test?", "completion": "The crest factor is 6-dB."}
+{"prompt": "What is the duration of the AES Transducer Test for this product?", "completion": "The duration is 2 hours."}
+{"prompt": "What type of filter is recommended for the high-pass protection?", "completion": "A 24-dB/octave filter is recommended."}
+{"prompt": "What is the specific frequency for the recommended high-pass protection?", "completion": "The frequency is 48 Hz."}
+{"prompt": "How does the DM8SE handle overload protection?", "completion": "It uses resistor-network power reduction with automatic reset."}
+{"prompt": "What is the nominal impedance when the transformer is bypassed?", "completion": "The nominal impedance is 8 Ohms."}
+{"prompt": "What are the dimensions of the mounting slots on the bracket backplate?", "completion": "The slots accommodate a spacing of 100-105 mm (3.9-4.1 inches)."}
+{"prompt": "What is the diameter of the center hole on the bracket backplate?", "completion": "The diameter is 22 mm."}
+{"prompt": "What is the vertical distance between the mounting slots on the bracket?", "completion": "The technical drawing indicates a specific layout, but the spacing width is emphasized as 100-105 mm."}
+{"prompt": "How far does the bracket extend from the wall to the pivot point?", "completion": "The distance is 73 mm [2.9 inches]."}
+{"prompt": "What is the overall height of the U-bracket?", "completion": "The height of the bracket is 314 mm [12.4 inches]."}
+{"prompt": "What is the width of the U-bracket's mounting surface?", "completion": "The width is 62 mm [2.5 inches]."}
+{"prompt": "How many M8 screw inserts are available on the U-bracket for mounting?", "completion": "There are (2) M8 screw inserts."}
+{"prompt": "What is the purpose of the single M8 insert on the back of the enclosure?", "completion": "It is for safety cable attachment."}
+{"prompt": "Does the grille include a safety tether?", "completion": "Yes, the diagrams show a grille safety tether."}
+{"prompt": "How is the grille attached to the loudspeaker?", "completion": "It uses 4 grille attachment clips."}
+{"prompt": "Where are the QuickHold lock levers located?", "completion": "They are located on the sides of the loudspeaker enclosure."}
+{"prompt": "What tool is needed to adjust the tap settings?", "completion": "A flathead screwdriver is typically used for the rotatable switch, though the text just mentions the switch location."}
+{"prompt": "Can the logo be rotated?", "completion": "Yes, the logo is rotatable."}
+{"prompt": "Is the logo removable?", "completion": "Yes, the logo is removable."}
+{"prompt": "What is the minimum operating temperature in Fahrenheit?", "completion": "The minimum operating temperature is -13 °F."}
+{"prompt": "What is the maximum operating temperature in Fahrenheit?", "completion": "The maximum operating temperature is 158 °F."}
+{"prompt": "What wire gauge is accepted by the Euroblock connector in mm²?", "completion": "It accepts 0.8 mm² to 2.5 mm² wire."}
+{"prompt": "Does the Euroblock connector allow for daisy-chaining?", "completion": "Yes, it is a 6-pin connector with loop-through, allowing for daisy-chaining."}
+{"prompt": "What is the coverage angle of the DM8SE at 1-10 kHz?", "completion": "The coverage angle is 115° conical."}
+{"prompt": "Is the crossover active or passive?", "completion": "It is a passive 2-way crossover."}
+{"prompt": "At what frequency is the crossover set?", "completion": "The crossover is set at 1.5 kHz."}
+{"prompt": "What is the peak SPL calculated at 1 meter?", "completion": "The peak SPL is 121 dB."}
+{"prompt": "What is the continuous SPL calculated at 1 meter?", "completion": "The continuous SPL is 115 dB."}
+{"prompt": "What is the sensitivity of the speaker in dB?", "completion": "The sensitivity is 93 dB."}
+{"prompt": "Does the DM8SE require specific Bose equalization to function?", "completion": "No, it does not require DSP or EQ, but performance can be enhanced with them."}
+{"prompt": "What is the benefit of using Bose Professional DSPs with this speaker?", "completion": "It enables Bose Professional loudspeaker EQ and SmartBass processing."}
+{"prompt": "What does SmartBass processing do?", "completion": "It expands performance and response at any listening level."}
+{"prompt": "What is the material of the DM8SE grille?", "completion": "The grille is made of perforated aluminum."}
+{"prompt": "What finish is applied to the DM8SE bracket?", "completion": "The bracket has a powder-coated finish."}
+{"prompt": "Is the DM8SE suitable for use in wet locations?", "completion": "Yes, it is IP55 rated and suitable for use outdoors in wet locations."}
+{"prompt": "Does the package include an installation guide?", "completion": "Yes, an installation guide is included."}
+{"prompt": "Can the DM8SE be pole mounted?", "completion": "Yes, an optional pole mount bracket is available."}
+{"prompt": "Can the DM8SE be used with a pan-and-tilt bracket?", "completion": "Yes, an optional surface-mount pan and tilt bracket is available."}
+{"prompt": "What is the frequency response tolerance for the 60-20,000 Hz spec?", "completion": "The tolerance is +/- 3 dB."}
+{"prompt": "What is the frequency range tolerance for the 52-20,000 Hz spec?", "completion": "The tolerance is -10 dB."}
+{"prompt": "Does the beamwidth graph show horizontal or vertical coverage?", "completion": "It shows both horizontal and vertical coverage."}
+{"prompt": "In the beamwidth graph, do the horizontal and vertical lines diverge significantly?", "completion": "They track closely but diverge slightly at higher frequencies (above 1 kHz)."}
+{"prompt": "What does the 'Raw' line in the frequency response graph indicate?", "completion": "It indicates the response with a high-pass filter only, without Bose EQ voicing."}
+{"prompt": "What is the impedance at 100 Hz roughly?", "completion": "According to the graph, there is a peak near 100 Hz, likely around 20 Ohms."}
+{"prompt": "What is the minimum impedance shown on the graph?", "completion": "The minimum impedance appears to be around 6-7 Ohms."}
+{"prompt": "What is the scale of the vertical axis on the Beamwidth graph?", "completion": "The scale is in Degrees, from 10 to 360."}
+{"prompt": "What is the scale of the vertical axis on the Frequency Response graph?", "completion": "The scale is SPL (dB), from 50 to 100."}
+{"prompt": "What is the scale of the vertical axis on the Impedance graph?", "completion": "The scale is Ohms, from 1 to 100."}
+{"prompt": "How many mounting slots are visible on the bracket backplate in the diagram?", "completion": "The diagram shows 4 mounting slots (2 pairs)."}
+{"prompt": "What is the distance between the two main mounting slots on the bracket?", "completion": "The distance is indicated as 100-105 mm."}
+{"prompt": "What does the dimension '17 [0.7]' represent in the Top View?", "completion": "It represents the clearance or gap between the bracket arm and the speaker body."}
+{"prompt": "What does the dimension '29-40 [1.1-1.6]' represent?", "completion": "It represents the spacing for the mounting slots on the bracket."}
+{"prompt": "What is the specific width of the loudspeaker in inches?", "completion": "The width is 9.8 inches."}
+{"prompt": "What is the specific height of the loudspeaker in inches?", "completion": "The height is 15.6 inches."}
+{"prompt": "What is the specific depth of the loudspeaker in inches?", "completion": "The depth is 10.0 inches."}
+{"prompt": "What is the depth with the bracket in inches?", "completion": "The depth with bracket is 10.7 inches."}
+{"prompt": "What is the diameter of the safety cable insert?", "completion": "It is an M8 thread."}
+{"prompt": "What is the material of the input cover?", "completion": "It is a weather-resistant input cover, likely plastic to match the enclosure."}
+{"prompt": "Does the input cover prevent corrosion?", "completion": "The aluminum grille prevents red corrosion; the input cover is weather-sealed to protect connections."}
+{"prompt": "What standard is the IP55 rating based on?", "completion": "It is based on IEC 529."}
+{"prompt": "What does the 'SE' in DM8SE likely stand for given the description?", "completion": "While not explicitly defined, it likely relates to 'Surface Exterior' or 'Surface Environmental' given the surface-mount and outdoor features."}
+{"prompt": "Is the DM8SE a plenum-rated model?", "completion": "No, plenum ratings are mentioned for in-ceiling models, not this surface-mount model."}
+{"prompt": "Does the DM8SE have a backcan?", "completion": "No, backcans are a feature of the in-ceiling models mentioned in the text."}
+{"prompt": "Can the DM8SE be painted?", "completion": "Yes, the grille and enclosure are paintable."}
+{"prompt": "What is the nominal coverage angle for the 1-4 kHz range?", "completion": "It is 130 degrees conical."}
+{"prompt": "What is the low-frequency limit of the frequency response (-3 dB)?", "completion": "The low-frequency limit is 60 Hz."}
+{"prompt": "What is the high-frequency limit of the frequency response (-3 dB)?", "completion": "The high-frequency limit is 20,000 Hz."}
+{"prompt": "What is the low-frequency limit of the frequency range (-10 dB)?", "completion": "The low-frequency limit is 52 Hz."}
+{"prompt": "What is the high-frequency limit of the frequency range (-10 dB)?", "completion": "The high-frequency limit is 20,000 Hz."}
+{"prompt": "How many watts is the 70V tap setting after 40 W?", "completion": "The next setting is 80 W."}
+{"prompt": "How many watts is the 100V tap setting after 40 W?", "completion": "The next setting is 80 W."}
+{"prompt": "Is there a 10 W tap for 70V?", "completion": "Yes, there is a 10 W tap."}
+{"prompt": "Is there a 10 W tap for 100V?", "completion": "Yes, there is a 10 W tap."}
+{"prompt": "Is there a 20 W tap for 70V?", "completion": "Yes, there is a 20 W tap."}
+{"prompt": "Is there a 20 W tap for 100V?", "completion": "Yes, there is a 20 W tap."}
+{"prompt": "Is there a 40 W tap for 70V?", "completion": "Yes, there is a 40 W tap."}
+{"prompt": "Is there a 40 W tap for 100V?", "completion": "Yes, there is a 40 W tap."}

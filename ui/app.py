@@ -4,14 +4,8 @@ import gradio as gr
 import requests
 
 
-def query_ollama(prompt):
+def query_ollama(prompt, history):
     try:
-        # Check cache first
-        cached_response = None
-        if cached_response is not None:
-            print("Using cached response")
-            yield cached_response
-            return
 
         # Initialize response text
         response_text = ""
@@ -22,7 +16,7 @@ def query_ollama(prompt):
         response = requests.post(
             'http://localhost:11434/api/generate',
             json={
-                'model': 'my-phi3-finetuned',
+                'model': 'bose-slm',
                 'prompt': prompt,
                 'stream': True,
                 'context_size': 2048,
@@ -59,31 +53,13 @@ def query_ollama(prompt):
         yield f"Error: {str(e)}"
 
 
-def create_interface():
-    iface = gr.Interface(
-        fn=query_ollama,
-        inputs=gr.Textbox(
-            label="Prompt",
-            placeholder="Ask your question here...",
-            lines=3
-        ),
-        outputs=gr.Textbox(
-            label="Response",
-            lines=5,
-        ),
-        title="Bose AI",
-        description="Chat about Bose products",
-
-    )
-    return iface
-
 if __name__ == "__main__":
-    iface = create_interface()
-    iface.queue()
+    iface = gr.ChatInterface(
+        fn=query_ollama,
+    )
+
     iface.launch(
         server_name="0.0.0.0",
         server_port=7860,
-        share=False,
-        root_path="",
         show_error=True
     )
